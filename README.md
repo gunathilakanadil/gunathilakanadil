@@ -1,54 +1,110 @@
-<h1 align="center">Hi there! 👋 I'm a Solution-Driven Software Engineer</h1>
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=3498DB&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+ <div align="center">
+  <img width="100%" height="auto" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5&height=200&section=header&text=Software%20Engineer&fontSize=60&fontAlignY=35&desc=Crafting%20Solutions%20for%20Real-World%20Problems&descAlignY=52&animation=twinkling"/>
 </div>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gunathilakanadil&style=flat-square&color=blue" alt="Profile Views"/>
-</p>
-🚀 About Me
-I'm passionate about solving real-world problems through innovative software solutions. With expertise in both frontend and backend technologies, I strive to create efficient, scalable, and user-friendly applications.
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-💻 Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
-</p>
-🌟 Expertise
-
-Full Stack Development
-Object-Oriented Programming
-Data Structures & Algorithms
-Mobile App Development
-Database Design & Management
-RESTful API Development
-
-📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gunathilakanadil&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gunathilakanadil&theme=tokyonight" alt="GitHub Streak" />
-</p>
-🔥 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunathilakanadil&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-🤝 Let's Connect!
-<p align="center">
-  <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&height=70&lines=Full+Stack+Development;Enterprise+Solutions;Clean+Architecture;Performance+Optimization" alt="Typing SVG" />
+</div>
+<br/>
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <h2>🛠️ Innovation Through Code</h2>
+        <p>
+          Transforming complex business challenges into elegant technical solutions with a focus on scalability, maintainability, and user experience.
+        </p>
+        <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder" width="300"/>
+      </td>
+      <td width="50%" align="center">
+        <h2>💡 Core Competencies</h2>
+        <p align="left" style="padding: 20px;">
+          ◆ Enterprise Application Development<br/>
+          ◆ Microservices Architecture<br/>
+          ◆ Cloud-Native Solutions<br/>
+          ◆ Performance Optimization<br/>
+          ◆ Clean Code Practices<br/>
+          ◆ Database Design & Optimization
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+<br/>
+<div align="center">
+  <h2>🎯 Technical Arsenal</h2>
+</div>
+<table align="center" border="0">
+  <tr align="center">
+    <td width="33.3%">
+      <h3>Backend Development</h3>
+      <div>
+        <img src="https://skillicons.dev/icons?i=java,spring,mysql,php" /><br/>
+        <sub><sup>Java • Spring Boot • MySQL • PHP</sup></sub>
+      </div>
+    </td>
+    <td width="33.3%">
+      <h3>Frontend Development</h3>
+      <div>
+        <img src="https://skillicons.dev/icons?i=angular,html,tailwind,ts" /><br/>
+        <sub><sup>Angular • HTML5 • TailwindCSS • TypeScript</sup></sub>
+      </div>
+    </td>
+    <td width="33.3%">
+      <h3>Mobile Development</h3>
+      <div>
+        <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,gradle,firebase" /><br/>
+        <sub><sup>Android Studio • Kotlin • Gradle • Firebase</sup></sub>
+      </div>
+    </td>
+  </tr>
+</table>
+<br/>
+<div align="center">
+  <h2>🌟 Professional Excellence</h2>
+mermaidCopymindmap
+  root((Software Engineering))
+    Enterprise Solutions
+      Microservices
+      API Design
+      Cloud Architecture
+    Full Stack Development
+      Backend Systems
+      Frontend Applications
+      Mobile Development
+    Data Engineering
+      Database Design
+      Performance Tuning
+      Data Structures
+    Best Practices
+      Clean Code
+      SOLID Principles
+      Design Patterns
+</div>
+<br/>
+<div align="center">
+  <h2>🔮 Current Focus</h2>
+  <table>
+    <tr>
+      <td>
+        <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=gunathilakanadil&bg_color=1a1b27&color=3b82f6&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
+      </td>
+    </tr>
+  </table>
+</div>
+<br/>
+<div align="center">
+  <h2>🤝 Professional Network</h2>
+  <a href="https://linkedin.com/in/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0D1117" alt="LinkedIn"/>
   </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:your.email@domain.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=0D1117" alt="Email"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://github.com/gunathilakanadil/gunathilakanadil/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+  <a href="https://github.com/gunathilakanadil" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=github&logoColor=white&color=0D1117" alt="Portfolio"/>
+  </a>
+</div>
+<br/>
+<div align="center">
+  <img width="100%" height="auto" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5&height=120&section=footer"/>
+</div>
