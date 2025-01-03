@@ -118,8 +118,8 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gunathilakanadil&repo=IT22275110_MAD&theme=tokyonight&hide_border=true&show_icons=true&show_description=true" />
   </a>
   <!-- Project 2 -->
-  <a href="https://github.com/gunathilakanadil/newapp.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gunathilakanadil&repo=newapp&theme=tokyonight&hide_border=true&show_icons=true&show_description=true" />
+  <a href="https://github.com/gunathilakanadil/nj.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gunathilakanadil&repo=nj&theme=tokyonight&hide_border=true&show_icons=true&show_description=true" />
   </a>
   
 </div>
@@ -159,15 +159,13 @@
 </h2>
 <div align="center">
   <!-- Animated Social Links -->
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/nadil-gunathilaka-664648341?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  <a href="mailto:your.email@domain.com">
+  <a href="mailto:gnadil44@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://github.com/gunathilakanadil" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-100000?style=for-the-badge&logo=github&logoColor=white">
-  </a>
+  
 </div>
 <!-- Animated Footer -->
 <div align="center">
