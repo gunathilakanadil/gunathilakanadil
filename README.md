@@ -113,19 +113,15 @@
 </h2>
 <!-- Project Cards with Hover Effects -->
 <div align="center">
-  <!-- Example: Replacing project1 and project2 with real names -->
-  <a href="https://github.com/gunathilakanadil/RealRepoName1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gunathilakanadil&repo=RealRepoName1&theme=tokyonight&hide_border=true&show_icons=true&show_description=true" />
+  <!-- Project 1 -->
+  <a href="https://github.com/gunathilakanadil/IT22275110_MAD.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gunathilakanadil&repo=IT22275110_MAD&theme=tokyonight&hide_border=true&show_icons=true&show_description=true" />
   </a>
-  <a href="https://github.com/gunathilakanadil/RealRepoName2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gunathilakanadil&repo=RealRepoName2&theme=tokyonight&hide_border=true&show_icons=true&show_description=true" />
+  <!-- Project 2 -->
+  <a href="https://github.com/gunathilakanadil/newapp.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gunathilakanadil&repo=newapp&theme=tokyonight&hide_border=true&show_icons=true&show_description=true" />
   </a>
-  <a href="https://github.com/gunathilakanadil/RealRepoName3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gunathilakanadil&repo=RealRepoName3&theme=tokyonight&hide_border=true&show_icons=true&show_description=true" />
-  </a>
-  <a href="https://github.com/gunathilakanadil/RealRepoName4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gunathilakanadil&repo=RealRepoName4&theme=tokyonight&hide_border=true&show_icons=true&show_description=true" />
-  </a>
+  
 </div>
 
 <!-- Animated Contribution Graph -->
