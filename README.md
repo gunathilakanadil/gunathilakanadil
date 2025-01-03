@@ -1,4 +1,4 @@
- <!-- Profile Header with Dynamic Animation -->
+  <!-- Profile Header with Dynamic Animation -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
@@ -33,7 +33,14 @@
           <br/>
           <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring Boot"/>
         </div>
-        <!-- Animated Progress Bar -->
+        <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+      </td>
+      <td valign="center" width="100">
+        <div align="center">
+          <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" width="100%"/>
+          <br/>
+          <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java"/>
+        </div>
         <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
       </td>
       <td valign="center" width="100">
@@ -44,11 +51,55 @@
         </div>
         <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
       </td>
+    </tr>
+    <tr>
+      <td valign="center" width="100">
+        <div align="center">
+          <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" width="100%"/>
+          <br/>
+          <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL"/>
+        </div>
+        <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+      </td>
+      <td valign="center" width="100">
+        <div align="center">
+          <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" width="100%"/>
+          <br/>
+          <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin"/>
+        </div>
+        <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+      </td>
+      <td valign="center" width="100">
+        <div align="center">
+          <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" width="100%"/>
+          <br/>
+          <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Android Studio"/>
+        </div>
+        <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+      </td>
+    </tr>
+    <tr>
       <td valign="center" width="100">
         <div align="center">
           <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" width="100%"/>
           <br/>
           <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind"/>
+        </div>
+        <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+      </td>
+      <td valign="center" width="100">
+        <div align="center">
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="100%"/>
+          <br/>
+          <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5"/>
+        </div>
+        <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+      </td>
+      <td valign="center" width="100">
+        <div align="center">
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="100%"/>
+          <br/>
+          <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3"/>
         </div>
         <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
       </td>
@@ -62,13 +113,14 @@
 </h2>
 <!-- Project Cards with Hover Effects -->
 <div align="center">
-  <a href="https://github.com/gunathilakanadil/peurifyApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gunathilakanadil&repo=project1&theme=tokyonight&hide_border=true&show_icons=true&show_description=true" />
+  <a href="https://github.com/gunathilakanadil/IT22275110_MAD.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gunathilakanadil&repo=IT22275110_MAD&theme=tokyonight&hide_border=true&show_icons=true&show_description=true" />
   </a>
-  <a href="https://github.com/yourusername/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gunathilakanadil&repo=project2&theme=tokyonight&hide_border=true&show_icons=true&show_description=true" />
+  <a href="https://github.com/gunathilakanadil/peurifyApp.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gunathilakanadil&repo=AnotherRepoName&theme=tokyonight&hide_border=true&show_icons=true&show_description=true" />
   </a>
 </div>
+
 <!-- Animated Contribution Graph -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"/> 
