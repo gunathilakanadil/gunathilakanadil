@@ -113,29 +113,18 @@
 </h2>
 <!-- Project Cards with Hover Effects -->
 <div align="center">
-  <!-- Project 1 -->
-  <a href="https://github.com/gunathilakanadil/IT22275110_MAD.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gunathilakanadil&repo=project1&theme=tokyonight&hide_border=true&show_icons=true&show_description=true" />
+  <!-- Example: Replacing project1 and project2 with real names -->
+  <a href="https://github.com/gunathilakanadil/RealRepoName1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gunathilakanadil&repo=RealRepoName1&theme=tokyonight&hide_border=true&show_icons=true&show_description=true" />
   </a>
-  <!-- Project 2 -->
-  <a href="https://github.com/gunathilakanadil/IT22275110_MAD.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gunathilakanadil&repo=project2&theme=tokyonight&hide_border=true&show_icons=true&show_description=true" />
+  <a href="https://github.com/gunathilakanadil/RealRepoName2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gunathilakanadil&repo=RealRepoName2&theme=tokyonight&hide_border=true&show_icons=true&show_description=true" />
   </a>
-  <!-- Project 3 -->
-  <a href="https://github.com/gunathilakanadil/IT22275110_MAD.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gunathilakanadil&repo=project3&theme=tokyonight&hide_border=true&show_icons=true&show_description=true" />
+  <a href="https://github.com/gunathilakanadil/RealRepoName3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gunathilakanadil&repo=RealRepoName3&theme=tokyonight&hide_border=true&show_icons=true&show_description=true" />
   </a>
-  <!-- Project 4 -->
-  <a href="https://github.com/gunathilakanadil/IT22275110_MAD.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gunathilakanadil&repo=project4&theme=tokyonight&hide_border=true&show_icons=true&show_description=true" />
-  </a>
-  <!-- Project 5 -->
-  <a href="https://github.com/gunathilakanadil/IT22275110_MAD.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gunathilakanadil&repo=project5&theme=tokyonight&hide_border=true&show_icons=true&show_description=true" />
-  </a>
-  <!-- Project 6 -->
-  <a href="https://github.com/gunathilakanadil/IT22275110_MAD.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gunathilakanadil&repo=project6&theme=tokyonight&hide_border=true&show_icons=true&show_description=true" />
+  <a href="https://github.com/gunathilakanadil/RealRepoName4">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gunathilakanadil&repo=RealRepoName4&theme=tokyonight&hide_border=true&show_icons=true&show_description=true" />
   </a>
 </div>
 
