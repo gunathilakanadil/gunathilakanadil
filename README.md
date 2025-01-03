@@ -1,4 +1,4 @@
-  <!-- Profile Header with Dynamic Animation -->
+ <!-- Profile Header with Dynamic Animation -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
@@ -62,7 +62,7 @@
 </h2>
 <!-- Project Cards with Hover Effects -->
 <div align="center">
-  <a href="https://github.com/yourusername/project1">
+  <a href="https://github.com/gunathilakanadil/peurifyApp">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gunathilakanadil&repo=project1&theme=tokyonight&hide_border=true&show_icons=true&show_description=true" />
   </a>
   <a href="https://github.com/yourusername/project2">
