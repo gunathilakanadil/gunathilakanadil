@@ -1,92 +1,150 @@
  <div align="center">
-  <img width="100%" height="auto" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5&height=200&section=header&text=Software%20Engineer&fontSize=60&fontAlignY=35&desc=Crafting%20Solutions%20for%20Real-World%20Problems&descAlignY=52&animation=twinkling"/>
+  <!-- Custom animated SVG header with gradient -->
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Engineering%20Excellence&animation=twinkling&fontColor=ffffff&fontSize=40&desc=Building%20Enterprise%20Solutions%20%7C%20Driving%20Innovation%20%7C%20Solving%20Complex%20Problems&descAlignY=65&descAlign=50" width="100%"/>
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&height=70&lines=Full+Stack+Development;Enterprise+Solutions;Clean+Architecture;Performance+Optimization" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&random=false&width=800&height=100&lines=Senior+Software+Engineer;Enterprise+Solution+Architect;Full+Stack+Development+Expert" alt="Typing SVG" />
+  </a>
 </div>
-<br/>
+<br />
 <div align="center">
   <table>
     <tr>
-      <td width="50%" align="center">
-        <h2>🛠️ Innovation Through Code</h2>
-        <p>
-          Transforming complex business challenges into elegant technical solutions with a focus on scalability, maintainability, and user experience.
-        </p>
-        <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder" width="300"/>
+      <td width="60%">
+        <h2 align="center">🎯 Engineering Philosophy</h2>
+        <img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="140" />
+        <p align="left">
+          <strong>Innovation-Driven Developer</strong> specializing in enterprise solutions with a focus on:
+Copy      ✦ Architecting scalable, cloud-native applications
+      ✦ Optimizing system performance & reliability
+      ✦ Implementing robust security practices
+      ✦ Delivering business-critical solutions
+    </p>
+  </td>
+  <td width="40%">
+    <h2 align="center">🚀 Quick Facts</h2>
+    <p align="left">
+      ⚡ Expert in Spring Boot microservices<br/>
+      🌟 Full stack development specialist<br/>
+      💡 Problem-solving enthusiast<br/>
+      🔄 CI/CD & DevOps practitioner<br/>
+      📊 Data-driven decision maker
+    </p>
+  </td>
+</tr>
+  </table>
+</div>
+<br/>
+<h2 align="center">🎨 Technology Artistry</h2>
+<div align="center">
+  <!-- Innovative way to display tech stack -->
+  <table style="border: none;">
+    <tr>
+      <td width="33%" align="center">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=gunathilakanadil&repo=spring-boot-project&theme=tokyonight&hide_border=true"/>
+        <br/>
+        <strong>Backend Mastery</strong>
+        <br/>
+        <div>
+          <img src="https://img.shields.io/badge/Spring_Boot-Expert-6DB33F?style=flat-square&logo=spring-boot&logoColor=white&labelColor=1A2B34"/>
+          <img src="https://img.shields.io/badge/Java-Advanced-ED8B00?style=flat-square&logo=java&logoColor=white&labelColor=1A2B34"/>
+          <img src="https://img.shields.io/badge/MySQL-Proficient-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=1A2B34"/>
+        </div>
       </td>
-      <td width="50%" align="center">
-        <h2>💡 Core Competencies</h2>
-        <p align="left" style="padding: 20px;">
-          ◆ Enterprise Application Development<br/>
-          ◆ Microservices Architecture<br/>
-          ◆ Cloud-Native Solutions<br/>
-          ◆ Performance Optimization<br/>
-          ◆ Clean Code Practices<br/>
-          ◆ Database Design & Optimization
-        </p>
+      <td width="33%" align="center">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=gunathilakanadil&repo=angular-project&theme=tokyonight&hide_border=true"/>
+        <br/>
+        <strong>Frontend Excellence</strong>
+        <br/>
+        <div>
+          <img src="https://img.shields.io/badge/Angular-Expert-DD0031?style=flat-square&logo=angular&logoColor=white&labelColor=1A2B34"/>
+          <img src="https://img.shields.io/badge/Tailwind-Advanced-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white&labelColor=1A2B34"/>
+          <img src="https://img.shields.io/badge/TypeScript-Proficient-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=1A2B34"/>
+        </div>
+      </td>
+      <td width="33%" align="center">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=gunathilakanadil&repo=android-project&theme=tokyonight&hide_border=true"/>
+        <br/>
+        <strong>Mobile Development</strong>
+        <br/>
+        <div>
+          <img src="https://img.shields.io/badge/Android-Expert-3DDC84?style=flat-square&logo=android&logoColor=white&labelColor=1A2B34"/>
+          <img src="https://img.shields.io/badge/Kotlin-Advanced-0095D5?style=flat-square&logo=kotlin&logoColor=white&labelColor=1A2B34"/>
+          <img src="https://img.shields.io/badge/Jetpack-Proficient-3DDC84?style=flat-square&logo=android&logoColor=white&labelColor=1A2B34"/>
+        </div>
       </td>
     </tr>
   </table>
 </div>
 <br/>
-<div align="center">
-  <h2>🎯 Technical Arsenal</h2>
-</div>
-<table align="center" border="0">
-  <tr align="center">
-    <td width="33.3%">
-      <h3>Backend Development</h3>
-      <div>
-        <img src="https://skillicons.dev/icons?i=java,spring,mysql,php" /><br/>
-        <sub><sup>Java • Spring Boot • MySQL • PHP</sup></sub>
-      </div>
-    </td>
-    <td width="33.3%">
-      <h3>Frontend Development</h3>
-      <div>
-        <img src="https://skillicons.dev/icons?i=angular,html,tailwind,ts" /><br/>
-        <sub><sup>Angular • HTML5 • TailwindCSS • TypeScript</sup></sub>
-      </div>
-    </td>
-    <td width="33.3%">
-      <h3>Mobile Development</h3>
-      <div>
-        <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,gradle,firebase" /><br/>
-        <sub><sup>Android Studio • Kotlin • Gradle • Firebase</sup></sub>
-      </div>
-    </td>
-  </tr>
-</table>
-<br/>
-<div align="center">
-  <h2>🌟 Professional Excellence</h2>
-mermaidCopymindmap
-  root((Software Engineering))
-    Enterprise Solutions
-      Microservices
-      API Design
-      Cloud Architecture
-    Full Stack Development
-      Backend Systems
-      Frontend Applications
-      Mobile Development
-    Data Engineering
-      Database Design
-      Performance Tuning
-      Data Structures
-    Best Practices
-      Clean Code
-      SOLID Principles
-      Design Patterns
-</div>
-<br/>
-<div align="center">
-  <h2>🔮 Current Focus</h2>
+<h2 align="center">💼 Professional Expertise</h2>
+<div align="center" style="background: #0D1117; padding: 20px; border-radius: 10px;">
   <table>
     <tr>
       <td>
-        <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=gunathilakanadil&bg_color=1a1b27&color=3b82f6&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
+        <h3>🏗️ Architecture & Design</h3>
+        <ul>
+          <li>Microservices Architecture</li>
+          <li>Domain-Driven Design</li>
+          <li>Event-Driven Systems</li>
+          <li>RESTful API Design</li>
+        </ul>
+      </td>
+      <td>
+        <h3>🛠️ Development Practices</h3>
+        <ul>
+          <li>Clean Architecture</li>
+          <li>SOLID Principles</li>
+          <li>Test-Driven Development</li>
+          <li>Agile Methodologies</li>
+        </ul>
+      </td>
+      <td>
+        <h3>📊 Data Engineering</h3>
+        <ul>
+          <li>Database Optimization</li>
+          <li>Data Structures</li>
+          <li>Complex Algorithms</li>
+          <li>Performance Tuning</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
+<br/>
+<h2 align="center">🔥 Recent Technical Achievements</h2>
+mermaidCopygraph LR
+    A[Problem Identification] --> B[Architecture Design]
+    B --> C[Implementation]
+    C --> D[Optimization]
+    D --> E[Deployment]
+    
+    style A fill:#3B82F6,stroke:#1E40AF,stroke-width:2px
+    style B fill:#3B82F6,stroke:#1E40AF,stroke-width:2px
+    style C fill:#3B82F6,stroke:#1E40AF,stroke-width:2px
+    style D fill:#3B82F6,stroke:#1E40AF,stroke-width:2px
+    style E fill:#3B82F6,stroke:#1E40AF,stroke-width:2px
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <h3>🏆 Key Projects</h3>
+        <ul>
+          <li>Developed high-performance microservices architecture</li>
+          <li>Implemented real-time data processing system</li>
+          <li>Created scalable mobile applications</li>
+          <li>Optimized database performance</li>
+        </ul>
+      </td>
+      <td>
+        <h3>📈 Impact</h3>
+        <ul>
+          <li>Reduced system latency by 40%</li>
+          <li>Improved application scalability</li>
+          <li>Enhanced user experience</li>
+          <li>Optimized resource utilization</li>
+        </ul>
       </td>
     </tr>
   </table>
@@ -94,17 +152,19 @@ mermaidCopymindmap
 <br/>
 <div align="center">
   <h2>🤝 Professional Network</h2>
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0D1117" alt="LinkedIn"/>
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your.email@domain.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=0D1117" alt="Email"/>
+  &nbsp;
+  <a href="mailto:your.email@domain.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/gunathilakanadil" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=github&logoColor=white&color=0D1117" alt="Portfolio"/>
+  &nbsp;
+  <a href="https://github.com/gunathilakanadil">
+    <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
 <br/>
 <div align="center">
-  <img width="100%" height="auto" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
