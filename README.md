@@ -1,4 +1,4 @@
- <!-- Profile Header with Dynamic Animation -->
+  <!-- Profile Header with Dynamic Animation -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
@@ -90,8 +90,8 @@
         <img src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" width="60"/>
         <h3>Backend Development</h3>
         <ul>
-          <li>Microservices Architecture</li>
-          <li>RESTful APIs</li>
+          <li>Spring-Boot</li>
+          <li>PHP</li>
           <li>Database Optimization</li>
         </ul>
       </td>
@@ -99,20 +99,12 @@
         <img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="60"/>
         <h3>Frontend Development</h3>
         <ul>
-          <li>Responsive Design</li>
-          <li>Modern Frameworks</li>
+          <li>Angular</li>
+          <li>HTML</li>
           <li>UI/UX Best Practices</li>
         </ul>
       </td>
-      <td>
-        <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="60"/>
-        <h3>DevOps</h3>
-        <ul>
-          <li>CI/CD Pipelines</li>
-          <li>Cloud Services</li>
-          <li>Performance Optimization</li>
-        </ul>
-      </td>
+       
     </tr>
   </table>
 </div>
