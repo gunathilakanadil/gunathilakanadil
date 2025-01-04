@@ -114,12 +114,21 @@
 <!-- Project Cards with Hover Effects -->
 <div align="center">
   <!-- Project 1 -->
-  <a href="https://github.com/gunathilakanadil/IT22275110_MAD.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gunathilakanadil&repo=IT22275110_MAD&theme=tokyonight&hide_border=true&show_icons=true&show_description=true" />
+   <a href="https://github.com/gunathilakanadil/peurifyApp.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gunathilakanadil&repo=peurifyApp&theme=tokyonight&hide_border=true&show_icons=true&show_description=true" />
   </a>
   <!-- Project 2 -->
-  <a href="https://github.com/gunathilakanadil/nj.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gunathilakanadil&repo=nj&theme=tokyonight&hide_border=true&show_icons=true&show_description=true" />
+  <a href="https://github.com/gunathilakanadil/Task-Masters.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gunathilakanadil&repo=Task-Masters&theme=tokyonight&hide_border=true&show_icons=true&show_description=true" />
+  </a>
+  <a href="https://github.com/gunathilakanadil/SolarApp.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gunathilakanadil&repo=SolarApp&theme=tokyonight&hide_border=true&show_icons=true&show_description=true" />
+  </a>
+  <a href="https://github.com/gunathilakanadil/Advertising-Agency.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gunathilakanadil&repo=Advertising-Agency&theme=tokyonight&hide_border=true&show_icons=true&show_description=true" />
+  </a>
+  <a href="https://github.com/gunathilakanadil/IT22275110_MAD.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gunathilakanadil&repo=IT22275110_MAD&theme=tokyonight&hide_border=true&show_icons=true&show_description=true" />
   </a>
   
 </div>
